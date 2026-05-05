@@ -27,12 +27,9 @@ Cuento con experiencia en procesos ETL, manejo de datos y trabajo en entornos á
 
 ## 🚀 Proyectos destacados
 
-| Proyecto                                                                              | Descripción                                                            | Stack                |
-| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------- |
-| [📚 Academic Project Manager](https://github.com/TU-USUARIO/academic-project-manager) | Sistema de gestión de trabajos académicos con carga de imágenes y PDFs | Python, Flask, MySQL |
-| [⚙️ Data Automation Scripts](https://github.com/TU-USUARIO/data-automation)           | Automatización de procesos y ETL                                       | Python               |
-| [🌐 Web CRUD App](https://github.com/TU-USUARIO/web-crud-app)                         | Aplicación web con operaciones CRUD completas                          | PHP, MySQL           |
-
+| Proyecto | Descripción | Stack |
+|---------|------------|------|
+| [📚 Academic Project Manager](https://github.com/Harol29R/Academic-Project-Manager) | Sistema de gestión de trabajos académicos con carga de imágenes y PDFs | Python, Flask, MySQL |
 ---
 
 ## ⚡ Sobre mí
